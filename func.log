@@ -1,0 +1,8 @@
+27/12/2022 16:09:20: even_or_odd = True calculated in -1.52587890625e-05 s
+27/12/2022 16:09:22: even_or_odd = False calculated in -4.5299530029296875e-06 s
+27/12/2022 16:09:23: even_or_odd: Слишком частый доступ к функции.
+27/12/2022 16:09:25: even_or_odd = True calculated in -6.198883056640625e-06 s
+27/12/2022 16:09:26: even_or_odd: Слишком частый доступ к функции.
+27/12/2022 16:09:27: even_or_odd = False calculated in -5.4836273193359375e-06 s
+27/12/2022 16:09:29: even_or_odd = True calculated in -1.0013580322265625e-05 s
+27/12/2022 16:09:31: even_or_odd = False calculated in -3.814697265625e-06 s
